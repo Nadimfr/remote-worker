@@ -1,0 +1,11 @@
+.css-1kjkg0s-MuiContainer-root {
+  margin-left: auto;
+  display: flex;
+  cursor: pointer;
+}
+
+@media screen and (max-width: 500px) {
+  .css-1kjkg0s-MuiContainer-root {
+    margin-left: 0;
+  }
+}

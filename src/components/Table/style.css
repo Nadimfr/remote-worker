@@ -1,0 +1,46 @@
+.main {
+  width: 100%;
+}
+
+.titles {
+  margin-top: 1%;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.data {
+  width: 100%;
+  margin-top: -25px;
+}
+
+.row {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  margin: 5px 0;
+}
+
+h5 {
+  color: #00000082;
+  font-weight: normal;
+  text-align: left;
+  width: 10%;
+}
+
+a {
+  width: 10%;
+  white-space: nowrap;
+  font-weight: normal;
+  text-align: left;
+}
+
+h4 {
+  width: 10%;
+  white-space: nowrap;
+  font-weight: normal;
+  text-align: left;
+}
